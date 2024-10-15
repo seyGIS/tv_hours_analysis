@@ -1,0 +1,8 @@
+"","     year","         marital","     age","            race","          rincome","              partyid","       relig","             denom","   tvhours"
+"","Min.   :2000  ","No answer    :   17  ","Min.   :18.00  ","Other         : 1959  ","$25000 or more:7363  ","Independent       :4119  ","Protestant:10846  ","Not applicable  :10072  ","Min.   : 0.000  "
+"","1st Qu.:2002  ","Never married: 5416  ","1st Qu.:33.00  ","Black         : 3129  ","Not applicable:7043  ","Not str democrat  :3690  ","Catholic  : 5124  ","Other           : 2534  ","1st Qu.: 1.000  "
+"","Median :2006  ","Separated    :  743  ","Median :46.00  ","White         :16395  ","$20000 - 24999:1283  ","Strong democrat   :3490  ","None      : 3523  ","No denomination : 1683  ","Median : 2.000  "
+"","Mean   :2007  ","Divorced     : 3383  ","Mean   :47.18  ","Not applicable:    0  ","$10000 - 14999:1168  ","Not str republican:3032  ","Christian :  689  ","Southern baptist: 1536  ","Mean   : 2.981  "
+"","3rd Qu.:2010  ","Widowed      : 1807  ","3rd Qu.:59.00  ",NA,"$15000 - 19999:1048  ","Ind,near dem      :2499  ","Jewish    :  388  ","Baptist-dk which: 1457  ","3rd Qu.: 4.000  "
+"","Max.   :2014  ","Married      :10117  ","Max.   :89.00  ",NA,"Refused       : 975  ","Strong republican :2314  ","Other     :  224  ","United methodist: 1067  ","Max.   :24.000  "
+"",NA,NA,"NA's   :76  ",NA,"(Other)       :2603  ","(Other)           :2339  ","(Other)   :  689  ","(Other)         : 3134  ","NA's   :10146  "
